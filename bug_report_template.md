@@ -1,6 +1,6 @@
 # Bug report
 ## Information disclosure - some website
-**Report by :** Hacker Famous
+**Report by :** Hacker Famous  
 [@zigzagCyberSec](https://twitter.com/ZigzagCyberSec)
 
 **Recipient :** Bob  
@@ -63,22 +63,8 @@ Main Objectives:
 
 ## Impact
 
-David Lassig was tasked with performing an internal penetration test towards
-EvilCorp Network. An internal penetration test is a dedicated
-attack against internally connected systems. The focus of this test is
-to perform attacks, similar to those of a hacker and attempt to
-infiltrate EvilCorps internal netowrk. My overall objective was to evaluate the
-network, identify systems, and exploit flaws while reporting the
-findings back to EvilCorp.
+Just explain how bad it is !
 
-When performing the internal penetration test, there were several
-alarming vulnerabilities that were identified on EvilCorps
-network. When performing the attacks, I was able to gain access to
-multiple machines, primarily due to outdated patches and poor security
-configurations. During the testing, I had administrative level access
-to multiple systems. All systems were successfully exploited and access
-granted. These systems as well as a brief description on how access was
-obtained are listed below:
 
 
 ## Recommendations
