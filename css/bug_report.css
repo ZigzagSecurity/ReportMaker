@@ -1,0 +1,55 @@
+@font-face{
+    font-family:hack; 
+    src:url(/home/zigzag/Downloads/ttf/Hack-Regular.ttf);
+}
+body{
+    font-family: "hack", sans-serif; font-size: 10px;
+}
+/* Table styles ripped from Github */
+table {
+    display: block;
+    overflow: auto;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+table tr {
+    background-color: #fff;
+    border-top: 1px solid #c6cbd1;
+}
+
+table tr:nth-child(2n) {
+    background-color: #f6f8fa;
+}
+
+table th {
+    font-weight: 600;
+    background-color: rgb(153, 214, 241);
+}
+
+table td,
+table th {
+    border: 1px solid #dfe2e5;
+    padding: 6px 13px;
+}
+
+table tr {
+    background-color: #fff;
+    border-top: 1px solid #c6cbd1;
+}
+
+table tr:nth-child(2n) {
+    background-color: #f6f8fa;
+}
+
+table > thead > tr > th {
+    border-bottom: 0;
+}
+/* End of table styles */
