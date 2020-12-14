@@ -1,11 +1,15 @@
 # Bug report
-## Information disclosure - some website
-**Report by :** Hacker Famous  
+
+
+<br ><br >
+
+**Report by :** zigzag  
 [@zigzagCyberSec](https://twitter.com/ZigzagCyberSec)
+
 
 **Recipient :** Bob  
 **Company :** yolo company
-
+<br ><br ><br ><br ><br ><br >
 <div class="page"/>
 
 # Findings list
@@ -27,12 +31,22 @@ An API is accessible without authentication. It is possible to query its endpoin
 
 ## Risk breakdown
 
-**Likelihood :**   
-**Complexity :**  
-**Risk :**
+**Likelihood :** Low / Medium / High  
+**Attack Complexity :** Low / Medium / High  
+**Risk :** Low / Medium / High
 
+<br >
 
-**Criticity :** 
+**Impact metrics :**  
+[x] Confidentility  
+[ ] Integrity  
+[ ] Availibilty  
+
+<br >
+
+**Criticity :** Low / Medium / High
+
+<br >
 
 ## Step to reproduce
 Here are the step by step walkthrough to reproduce the bug.
@@ -78,11 +92,11 @@ Here you have some basics recommendations.
 
 1. [somewhere](https://)
 2. [Somewhere 2](https://)
-3. [Somewhere 2](https://)
+3. [Somewhere 3](https://)
 
 <div class="page"/>
 
-# <a name="find2"></a>Finding 2 - Information disclosure
+# <a name="find2"></a>Finding 2 - New finding
 ## Summary
 ## Risk breakdown
 ## Step to reproduce
