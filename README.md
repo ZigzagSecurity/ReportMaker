@@ -17,6 +17,7 @@ You don't a complex setup to start using this template. Here is the mandatory li
 You have to go to `File -> Preferences -> Settings -> extensions -> Markdown PDF`
 
  - Put the path to the css folder at the "style" setting
+ - Change the path of the font in the css file, put your own
  - Put the value you want for the header and footer
 
 ## Usage
