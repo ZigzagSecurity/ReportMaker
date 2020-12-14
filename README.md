@@ -24,3 +24,5 @@ You have to go to `File -> Preferences -> Settings -> extensions -> Markdown PDF
 1. Write your report
 2. Generate it by pressing F1 and type "export"
 3. Then choose the format for the export
+
+Go to the extension github page or marketplace page to find more information.
